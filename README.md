@@ -124,6 +124,9 @@ El proyecto sigue un enfoque modular basado en **Principios de Ingeniería de So
 ├── requirements.txt            # Dependencias del sistema
 └── run_model_complete.py       # Script de ejecución integral
 
+```
+
+---
 ## ⚠️ Uso del proyecto
 
 Este proyecto ha sido desarrollado con fines educativos/investigativos y de portafolio.
@@ -142,7 +145,6 @@ Para más información, consultar el archivo `LICENSE`.
 
 ## ✉️ Contacto e Investigación
 Si tienes dudas sobre la metodología aplicada o estás interesado en colaborar en proyectos de analítica en salud, no dudes en contactarme:
-
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Manuel_Betancur-0077B5?style=for-the-badge&logo=linkedin) ](https://www.linkedin.com/in/ingjuanmbl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Manuel_Betancur-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ingjuanmbl/)
 [![Email](https://img.shields.io/badge/Email-ing.juanmbl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.juanmbl@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573128747344)
