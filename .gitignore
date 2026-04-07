@@ -19,7 +19,7 @@ __pycache__/
 
 # --- Datos (MUY IMPORTANTE) ---
 # No subimos CSVs pesados ni datos crudos por seguridad y espacio
-*.csv
+
 *.xlsx
 *.json
 *.sql

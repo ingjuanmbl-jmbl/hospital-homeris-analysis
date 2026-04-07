@@ -80,7 +80,7 @@ variable = st.selectbox(
 )
 
 
-df_group = df.groupby(["cluster", "GENERO"])["CANTIDAD_CASOS"].sum().reset_index()
+df_group = df.groupby(["cluster", variable])["CANTIDAD_CASOS"].sum().reset_index()
 
 df_group["PORCENTAJE"] = (
     df_group["CANTIDAD_CASOS"] /
