@@ -213,7 +213,7 @@ with col_izq:
     )
 
 #Graficos de diagnostico
-st.subheader("Analsis por Aspectos Sociodemograficos del paciente")
+st.subheader("Análisis por Aspectos Sociodemograficos del paciente")
 st.markdown("---")
 
 col1, col2 = st.columns(2)
