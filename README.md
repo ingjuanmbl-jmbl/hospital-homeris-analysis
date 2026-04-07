@@ -119,6 +119,7 @@ El proyecto sigue un enfoque modular basado en **Principios de Ingeniería de So
 ├── requirements.txt            # Dependencias del sistema
 └── run_model_complete.py       # Script de ejecución integral
 
+---
 ## ⚠️ Uso del proyecto
 
 Este proyecto ha sido desarrollado con fines educativos/investigativos y de portafolio.
