@@ -118,7 +118,7 @@ El proyecto sigue un enfoque modular basado en **Principios de Ingeniería de So
 ├── README.md                   # Documentación del proyecto
 ├── requirements.txt            # Dependencias del sistema
 └── run_model_complete.py       # Script de ejecución integral
-
+´´´
 ---
 ## ⚠️ Uso del proyecto
 
