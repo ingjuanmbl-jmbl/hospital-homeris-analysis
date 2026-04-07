@@ -148,7 +148,7 @@ with st.expander("🔎 Ver análisis"):
 st.markdown("---")
 
 #Graficos de diagnostico
-st.subheader("Analsis por Diagnostico")
+st.subheader("Análisis por Diagnostico")
 col_izq, col_der = st.columns(2)
 
 with col_izq:
