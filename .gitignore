@@ -1,0 +1,39 @@
+# --- Python & Entornos Virtuales ---
+.venv/
+venv/
+env/
+bin/
+lib/
+share/
+pyvenv.cfg
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar puntos de control de Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Datos (MUY IMPORTANTE) ---
+# No subimos CSVs pesados ni datos crudos por seguridad y espacio
+*.csv
+*.xlsx
+*.json
+*.sql
+*.sqlite
+
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Configuración y Secretos ---
+.env
+.secrets
+.idea/
+.vscode/
+*.log
+
+# --- Archivos de Sistema ---
+Thumbs.db
+.DS_Store
