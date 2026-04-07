@@ -9,6 +9,11 @@
 
 Esta plataforma integra técnicas de **Machine Learning No Supervisado** para identificar patrones ocultos en datos hospitalarios, permitiendo una transición de una gestión reactiva a una caracterización proactiva de la población atendida.
 
+---
+## 🌐 Acceso a la Plataforma en Vivo
+Puedes interactuar con los modelos y explorar los clústeres en tiempo real aquí:
+🚀 **[Hospital Homeris Analytics - Demo en la Nube](https://hospital-homeris-analysis-5e3mu8p9ypcsprptu4abtx.streamlit.app/)**
+
 
 ---
 
