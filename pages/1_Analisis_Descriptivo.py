@@ -195,7 +195,7 @@ with col_der:
 with col_izq:
     st.info(
         """
-        ### 💡 Insagth Clave
+        ### 💡 Insight Clave
         - Aunque la atención en salud mental representa la mayoría de los casos (88.5%), 
         se identifica que un 11.5% de las atenciones corresponde a diagnósticos no relacionados, 
         lo que evidencia la existencia de una demanda adicional de servicios generales dentro del
