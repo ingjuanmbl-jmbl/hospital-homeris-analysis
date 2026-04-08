@@ -22,17 +22,20 @@ from pipeline.pipeline_inference import pipeline_inference
 
 st.set_page_config(page_title="Hospital-homeris-analysis", layout="wide")
 st.markdown("""
-    <h1 style='margin-bottom:0;'>🏥 Aplicación de Analítica Avanzada en el Hospital Homeris</h1>
+    <h1 style='margin-bottom:0;'>🏥 Análisis Avanzado de Agrupamiento y Reducción de Dimensionalidad para la Caracterización del Paciente en Salud Mental</h1>
     <p style='color:gray; margin-top:0; font-size:18px;'>
-    Plataforma de análisis que utiliza Machine Learning para segmentar pacientes e identificar patrones clínicos y demográficos que apoyan la toma de decisiones en salud.
+    Plataforma de inteligencia de datos que integra algoritmos de aprendizaje no supervisado y técnicas de reducción de dimensionalidad
+    para la identificación de fenotipos demográficos y patrones de demanda asistencial, optimizando la gestión de recursos y la intervención
+    personalizada en servicios de salud mental.
     </p>
 """, unsafe_allow_html=True)
 
 st.markdown("""
 ### 🎯 Objetivo
 
-Identificar patrones en la población atendida que permitan caracterizar segmentos de pacientes 
-y generar insights que apoyen decisiones clínicas y estratégicas dentro del hospital.
+Modelar la estructura de la demanda asistencial mediante técnicas de agrupación avanzada para caracterizar fenotipos de pacientes,
+permitiendo la extracción de evidencia estadística que fundamente la toma de decisiones clínicas y la optimización estratégica
+de los servicios hospitalarios
 """)
 
 

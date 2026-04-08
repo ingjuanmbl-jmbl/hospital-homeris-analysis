@@ -10,8 +10,13 @@ st.set_page_config(
     layout="wide",
     page_icon="🏥")
 
-st.title("🧑‍⚕️ Análisis operativo - E.S.E Hospital Mental Homeris")
-st.markdown("Dashboard interactivo para la visualización de diagnósticos y tendencias.")
+st.title("🧑‍⚕️ Análisis Descriptivo - E.S.E Hospital Mental Homeris")
+st.info("""
+Este módulo tiene como objetivo realizar una **radiografía situacional** de las atenciones en HOMERIS. 
+A través de la exploración de variables demográficas y clínicas, identificamos tendencias de volumen, 
+distribución geográfica y picos de atención que sirven como línea base para la toma de decisiones 
+operativas y la asignación de personal médico.
+""")
 
 #Carga del data set
 @st.cache_data

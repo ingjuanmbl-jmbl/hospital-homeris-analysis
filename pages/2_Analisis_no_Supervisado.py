@@ -13,12 +13,13 @@ st.set_page_config(
 st.title("🔍 Analisis No Supervisado - Clustering")
 st.info(
     """
-    El Clustering es una técnica de aprendizaje no supervisado que consiste
-    en organizar un conjunto de datos en grupos (clústeres), de tal manera
-    que los elementos dentro de un mismo grupo compartan características
-    similares entre sí, pero sean significativamente distintos a los de otros grupos.
+    El propósito del análisis no sueprvisado es **descubrir patrones ocultos** en la población de pacientes que no son 
+    visibles a simple vista. Mediante algoritmos de agrupación (Clustering) y reducción de dimensionalidad (PCA), 
+    segmentamos a los pacientes en grupos con comportamientos clínicos y demográficos similares. Esto permite 
+    pasar de una atención genérica a una **estrategia de salud dirigida y personalizada**.
     """
 )
+
 
 st.markdown("<h4 style='text-align: center;'>Metricas de ajuste</h4>", unsafe_allow_html=True)
 st.markdown("---")

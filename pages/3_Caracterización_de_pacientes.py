@@ -13,9 +13,12 @@ st.set_page_config(
 
 st.markdown("<h1 style='text-align: center;'>🔍 Caracterización de pacientes</h1>", unsafe_allow_html=True)
 st.info(
-    """Esta sección presenta el análisis de la población atendida en el hospital, 
-        con el objetivo de identificar patrones relevantes a partir de la implementación
-         del algoritmo de clustering."""
+    """Esta sección detalla el análisis de la población asistencial mediante la integración 
+    de técnicas de aprendizaje no supervisado. El objetivo principal es la identificación 
+    de fenotipos clínicos y demográficos a partir de la implementación de algoritmos de 
+    agrupamiento (clustering), permitiendo una comprensión profunda de las dinámicas 
+    atencionales y la segmentación de la demanda en el hospital.
+    """
         )
 
 #Aasignamos rutas de lectura
@@ -282,9 +285,4 @@ El modelo identifica un segmento claramente diferenciado compuesto por hombres j
 de condiciones relacionadas con salud mental, lo que podría representar una población objetivo para estrategias 
 específicas de atención, prevención e intervención dentro del sistema de salud.
 """)
-
-
-
-
-
 
