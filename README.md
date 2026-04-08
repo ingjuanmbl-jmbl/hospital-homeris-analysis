@@ -1,6 +1,6 @@
 # 🏥 Health Analytics Platform - Hospital Homeris
 
-> **Análisis de segmentación fenotípica y caracterización de pacientes mediante aprendizaje no supervisado.**
+> **Análisis Avanzado de Agrupamiento y Reducción de Dimensionalidad para la Caracterización del Paciente en Salud Mental del hospital Homeris**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg?style=flat-square&logo=streamlit)

@@ -22,7 +22,7 @@ from pipeline.pipeline_inference import pipeline_inference
 
 st.set_page_config(page_title="Hospital-homeris-analysis", layout="wide")
 st.markdown("""
-    <h1 style='margin-bottom:0;'>🏥 Análisis Avanzado de Agrupamiento y Reducción de Dimensionalidad para la Caracterización del Paciente en Salud Mental</h1>
+    <h1 style='margin-bottom:0;'>🏥 Análisis Avanzado de Agrupamiento y Reducción de Dimensionalidad para la Caracterización del Paciente en Salud Mental del hospital Homeris</h1>
     <p style='color:gray; margin-top:0; font-size:18px;'>
     Plataforma de inteligencia de datos que integra algoritmos de aprendizaje no supervisado y técnicas de reducción de dimensionalidad
     para la identificación de fenotipos demográficos y patrones de demanda asistencial, optimizando la gestión de recursos y la intervención
